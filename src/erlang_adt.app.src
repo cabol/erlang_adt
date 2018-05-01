@@ -1,0 +1,16 @@
+{application, erlang_adt, [
+  {description, "Abstract Data Types Examples In Erlang"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+  {env,[]},
+  {modules, []},
+  {maintainers, ["Carlos Bolanos"]},
+  {licenses, ["MIT"]},
+  {links, [
+    {"GitHub", "https://github.com/cabol/erlang_adt"}
+  ]}
+]}.
